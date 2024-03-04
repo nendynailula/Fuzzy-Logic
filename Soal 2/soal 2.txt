@@ -1,0 +1,9 @@
+Sebuah pabrik mainan anak-anak memproduksi mainan mobil mobilan jenis XYZ Dari data bulan terakhir Permintaan Lebesar mencapai 4000 unit/bulan dan permintaan terkecil 1000 unit/bulan. Persediaan digudang terbanyak Pernah mencapai 500 unit per bulan dan terendah 100 / bulan. Derigan segala keterbatasannya, Pabrik sampai saat ini baru mampu memproduksi 5000 unit/bulan, untuk efisiensi mesin dan SDM tiap bulan diharapkan pabrik memproduksi Paling tidak 1500 unit. Berapa unit mobil mobilan jenis xyz yang harus diproduksi, jika permintaan bulan ini 3000 unit dan Persediaan di gudang 300 unit. Jika proses produksi menggunakan 4 aturan fuzzy sebagai berikut:
+
+R1: Jika permintaan turun dan persediaan banyak, maka produksi berkurang
+
+R2: Jika Permintaan turun dan persediaan sedikit maka produksi berkurang
+
+R3: Jika Permintaan naik dan persediaan banyak, maka produksi bertambah
+
+RA: Jika permintaan turun dan persediaan Sedikit maka produksi bertambah
