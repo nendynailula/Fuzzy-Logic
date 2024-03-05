@@ -1,0 +1,7 @@
+Sebuah pabrik mainan anak-anak memproduksi mainan mobil- mobilan jenis xyz dari data I bulan terakhir permintaan terbesar mencapai 6000 unit /bln. dan permintaan terkecil 2000 unit / bin.
+di gudang terbanyak pernah mencapai 700 unit / bin. dan terendah 200 unt/bin. dengan segala keterbatasanya pabrik sampai saat ini baru mampu mempro- duksi 8000 unt/bin.
+untuk efisiensi mesin dar sam tiap bulan diharapkan pabrik dapat memproduksi paling tidak 3000 unit / bin.
+lka Permintaan bulan ini 5000 uilt (bin dan persediaan di gudang 400 unles sika produksi menggunakan 4 aturan fuzzy sebagai berikut.
+R1. Jika permintaan turun dan persediaan banyak, maka produksi berkurang.
+R2. Jika permintaan turun dan persediaan sedikit, maka produksi berkurang.
+R3. Jika permintaan halk dan persediaan banyak, maka produksi bertambah. R4. Jika permintaan turun dan persediaan Halkı, maka produksi berkurang.

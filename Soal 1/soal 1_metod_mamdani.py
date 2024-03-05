@@ -2,6 +2,7 @@
 import numpy as np
 import skfuzzy as fuzz
 from skfuzzy import control as ctrl
+import matplotlib as plt
 
 # Fungsi utama untuk Fuzzy Logic Mamdani
 def main_mamdani():
@@ -42,6 +43,11 @@ def main_mamdani():
     # Output hasil produksi
     print("Jumlah mobil mobilan jenis XYZ yang harus diproduksi (Fuzzy Mamdani):", produksi_simulasi.output['produksi'], "unit")
 
+    permintaan_var.view()
+    persediaan_var.view()
+    produksi.view()
+    plt.show()
+    plt.waitk
 # Panggil fungsi utama untuk Fuzzy Logic Mamdani
 if __name__ == "__main__":
     main_mamdani()
